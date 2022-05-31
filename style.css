@@ -20,9 +20,7 @@ body {
     min-height: 100vh;
 }
 
-img {
-    max-width: max-content;
-}
+
 
 header {
     display: flex;
