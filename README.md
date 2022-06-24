@@ -3,4 +3,4 @@
 
 # DEMO
 
-https://richlii.github.io/Recipe_App/
+https://richlii.github.io/Recipe-App/
